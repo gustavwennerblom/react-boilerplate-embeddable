@@ -31,6 +31,6 @@ module.exports = {
     }),
   ],
   output: {
-    filename: 'react-epr.js',
+    filename: 'react-boilerplate.js',
   },
 };

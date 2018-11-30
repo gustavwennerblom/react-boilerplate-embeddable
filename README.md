@@ -14,3 +14,8 @@ To use:
 * `npm install`
 * Test that everything is working with `npm run start`
 * Run tests using `npm run test`
+* When you're ready to deploy, run `npm run build` and find your webpacked output in a new `dist/` folder
+
+Don't forget to configure:
+* Repo naming and other app-specific data in `package.json`
+* Output file naming in `webpack.config.js`
